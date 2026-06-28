@@ -50,22 +50,23 @@
 - **Summary.ipynb** - תרגילים מעשיים
 - *(נוצר על ידי subagent)*
 
-### יום 6: Pandas - ניתוח נתונים מתקדם 🔄
-- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations
-- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables
-- **Summary.ipynb** - תרגילים מעשיים
-- *(נוצר על ידי subagent)*
+### יום 6: Pandas - ניתוח נתונים מתקדם ⚠️
+- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations **(skeleton)**
+- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge **(skeleton)**
+- **Summary.ipynb** **(skeleton)**
 
-### יום 7: Email Automation + Threading 🔄
-- **1_Email_Automation.ipynb** - smtplib, sending emails with attachments
-- **2_Threading_Basics.ipynb** - threading.Thread, concurrent downloads
-- **Summary.ipynb** - תרגילים משולבים
-- *(נוצר על ידי subagent)*
+### יום 7: Email Automation + Threading ⚠️
+- **1_Email_Automation.ipynb** - smtplib basics **(skeleton)**
+- **2_Threading_Basics.ipynb** - threading.Thread **(skeleton)**
+- **Summary.ipynb** **(skeleton)**
 
-### יום 8: פרויקט סיום משולב 🔄
-- **Final_Project.ipynb** - 3 אופציות פרויקט: מכירות, מעקב מחירים, עיבוד מיילים
-- **Summary.ipynb** - המלצות להמשך לימוד, נושאים מתקדמים
-- *(נוצר על ידי subagent)*
+### יום 8: פרויקט סיום משולב ⚠️
+- **Final_Project.ipynb** - 3 אופציות פרויקט **(skeleton)**
+- **Summary.ipynb** - המלצות להמשך **(skeleton)**
+
+---
+
+**⚠️ שימו לב:** ימים 6-8 נוצרו כקבצי skeleton עם מבנה בסיסי ודוגמאות קוד. אפשר להרחיב אותם בסשנים נפרדים.
 
 ---
 

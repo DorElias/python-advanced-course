@@ -18,19 +18,35 @@
 - ✅ 3_Excel_Files.ipynb
 - ✅ Summary.ipynb
 
-## ⏳ In Progress
-
 ### Day 4: Requests & APIs
-- 🔄 Being created by subagent...
+- ✅ 1_Requests_Basics.ipynb
+- ✅ 2_Working_with_APIs.ipynb
+- ✅ Summary.ipynb
 
-## 📋 TODO
+### Day 5: SQL Basics
+- ✅ 1_SQLite_Basics.ipynb
+- ✅ 2_SQL_Advanced.ipynb
+- ✅ Summary.ipynb
 
-### Day 5: SQL Basics (SQLite)
 ### Day 6: Pandas
+- ⚠️ 1_Pandas_Basics.ipynb (skeleton)
+- ⚠️ 2_Pandas_Analysis.ipynb (skeleton)
+- ⚠️ Summary.ipynb (skeleton)
+
 ### Day 7: Email + Threading
+- ⚠️ 1_Email_Automation.ipynb (skeleton)
+- ⚠️ 2_Threading_Basics.ipynb (skeleton)
+- ⚠️ Summary.ipynb (skeleton)
+
 ### Day 8: Final Project
+- ⚠️ Final_Project.ipynb (skeleton)
+- ⚠️ Summary.ipynb (skeleton)
 
 ## Stats
-- Completed: 3 days (10 notebooks)
-- In Progress: Day 4
-- Remaining: Days 5-8
+- **Fully completed**: Days 1-5 (16 notebooks)
+- **Skeleton files**: Days 6-8 (8 notebooks)
+- **Total structure**: 8 days, 24 notebook files
+
+## Next Steps
+- Days 6-8 have basic structure but need content expansion
+- Can be filled in future sessions or by user
