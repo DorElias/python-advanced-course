@@ -44,29 +44,27 @@
 - **2_Working_with_APIs.ipynb** - JSON responses, error handling, APIs ציבוריים (wttr.in, quotable.io, dog.ceo)
 - **Summary.ipynb** - 6 תרגילים כולל מזג אויר, הורדת תמונות, מעקב מטבעות
 
-### יום 5: SQL בסיסי (SQLite) 🔄
+### יום 5: SQL בסיסי (SQLite) ✅
 - **1_SQLite_Basics.ipynb** - CREATE, INSERT, SELECT, WHERE
 - **2_SQL_Advanced.ipynb** - UPDATE, DELETE, JOIN, GROUP BY
 - **Summary.ipynb** - תרגילים מעשיים
-- *(נוצר על ידי subagent)*
 
-### יום 6: Pandas - ניתוח נתונים מתקדם ⚠️
-- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations **(skeleton)**
-- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge **(skeleton)**
-- **Summary.ipynb** **(skeleton)**
+### יום 6: Pandas - ניתוח נתונים מתקדם ✅
+- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations, הסברים מפורטים
+- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables, דוגמאות מעשיות
+- **Summary.ipynb** - תרגילים מקיפים
 
-### יום 7: Email Automation + Threading ⚠️
-- **1_Email_Automation.ipynb** - smtplib basics **(skeleton)**
-- **2_Threading_Basics.ipynb** - threading.Thread **(skeleton)**
-- **Summary.ipynb** **(skeleton)**
+### יום 7: Email Automation + Threading ✅
+- **1_Email_Automation.ipynb** - smtplib, שליחת מיילים עם קבצים מצורפים, HTML emails
+- **2_Threading_Basics.ipynb** - threading.Thread, הרצה מקבילית, דוגמאות הורדת קבצים
+- **Summary.ipynb** - 3 תרגילים משולבים (דוחות, הורדות, התראות)
 
-### יום 8: פרויקט סיום משולב ⚠️
-- **Final_Project.ipynb** - 3 אופציות פרויקט **(skeleton)**
-- **Summary.ipynb** - המלצות להמשך **(skeleton)**
-
----
-
-**⚠️ שימו לב:** ימים 6-8 נוצרו כקבצי skeleton עם מבנה בסיסי ודוגמאות קוד. אפשר להרחיב אותם בסשנים נפרדים.
+### יום 8: פרויקט סיום משולב ✅
+- **Final_Project.ipynb** - 3 פרויקטים מפורטים:
+  1. מערכת ניהול מכירות (SQL + Excel + Pandas + Email)
+  2. מעקב מחירים אוטומטי (API + SQL + Threading + Email)
+  3. מערכת עיבוד מיילים (IMAP + SQL + Excel)
+- **Summary.ipynb** - המלצות להמשך לימוד (Web Dev, ML, Automation), משאבים ועצות
 
 ---
 
@@ -166,5 +164,76 @@ python-advanced-course/
 ---
 
 **בהצלחה! 🐍✨**
+
+</div>
+
+---
+
+## ✨ מה חדש בגרסה זו?
+
+- ✅ **24 מחברות מלאות** - כל יום כולל 2-3 מחברות + Summary
+- ✅ **הסברים מפורטים** - טקסט הסבר לפני ואחרי כל קוד
+- ✅ **דוגמאות מציאותיות** - שמות משתנים בעברית, בעיות אמיתיות
+- ✅ **פרויקטים משולבים** - כל יום מסתיים בפרויקט גדול
+- ✅ **RTL מלא** - כל הטקסט מעוצב נכון מימין לשמאל
+- ✅ **"למה זה חשוב?"** - הקשר המעשי לכל נושא
+
+---
+
+## 📊 סטטיסטיקות
+
+- **8 ימי לימוד**
+- **24 מחברות Jupyter**
+- **16+ פרויקטים מעשיים**
+- **50+ תרגילים**
+- **כל התוכן בעברית**
+
+---
+
+## 🚀 איך להתחיל?
+
+1. שכפלו את הריפו:
+```bash
+git clone https://github.com/DorElias/python-advanced-course.git
+cd python-advanced-course
+```
+
+2. התקינו את הספריות הנדרשות:
+```bash
+pip install -r requirements.txt
+```
+
+3. פתחו את Jupyter:
+```bash
+jupyter notebook
+```
+
+4. התחילו מיום 1!
+
+---
+
+## 📖 מבנה הקורס
+
+כל יום כולל:
+- **מחברות לימוד** - תיאוריה + קוד + הסברים
+- **דוגמאות מעשיות** - בעיות אמיתיות מהעולם המשרדי
+- **Summary עם תרגילים** - בדיקת ההבנה
+
+הקורס בנוי כך שניתן:
+- ללמוד לבד בקצב אישי
+- להשתמש בכיתה עם מרצה
+- להתאים תרגילים לצרכים ספציפיים
+
+---
+
+## 🤝 תרומה
+
+מצאתם טעות? יש רעיון לשיפור? נשמח ל-Pull Request!
+
+---
+
+## 📜 רישיון
+
+MIT License - ראו קובץ LICENSE למידע נוסף
 
 </div>
