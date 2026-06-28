@@ -1,0 +1,11 @@
+id,first_name,last_name,email,department,salary,hire_date
+1,דני,כהן,dani.cohen@example.com,הנדסה,15000,2020-03-15
+2,שרה,לוי,sara.levi@example.com,שיווק,12000,2019-07-22
+3,יוסי,מזרחי,yossi.mizrachi@example.com,מכירות,13500,2021-01-10
+4,רחל,אברהם,rachel.avraham@example.com,הנדסה,16000,2018-11-05
+5,משה,דוד,moshe.david@example.com,כספים,14000,2020-09-01
+6,מיכל,שמעון,michal.shimon@example.com,משאבי אנוש,11000,2022-02-14
+7,אבי,יעקב,avi.yaakov@example.com,מכירות,13000,2019-05-18
+8,תמר,ישראל,tamar.israel@example.com,שיווק,12500,2021-06-30
+9,עמית,בן דוד,amit.bendavid@example.com,הנדסה,15500,2020-12-20
+10,נועה,ברק,noa.barak@example.com,כספים,13800,2018-08-12

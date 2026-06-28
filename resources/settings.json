@@ -1,0 +1,30 @@
+{
+  "app_name": "מערכת ניהול משרדית",
+  "version": "1.0.0",
+  "language": "he",
+  "theme": "light",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "office_db",
+    "user": "admin"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender": "office@example.com",
+    "use_tls": true
+  },
+  "notifications": {
+    "enabled": true,
+    "sound": true,
+    "popup": true
+  },
+  "features": {
+    "auto_save": true,
+    "dark_mode": false,
+    "spell_check": true,
+    "auto_backup": true,
+    "backup_interval_hours": 24
+  }
+}

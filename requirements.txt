@@ -1,0 +1,22 @@
+# Python Advanced Course - Required Libraries
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Email (built-in, but listed for reference)
+# smtplib - included in Python standard library
+# email - included in Python standard library
+
+# Database (SQLite is built-in)
+# sqlite3 - included in Python standard library
+
+# Jupyter Notebook
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Optional but recommended
+jupyter>=1.0.0
