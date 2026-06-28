@@ -21,28 +21,39 @@
 
 ---
 
+## ✨ מה בקורס?
+
+- ✅ **24 מחברות Jupyter מלאות** - כל יום כולל 2-3 מחברות + תרגילים
+- ✅ **הסברים מפורטים** - טקסט הסבר לפני ואחרי כל קוד
+- ✅ **דוגמאות מציאותיות** - שמות משתנים בעברית, בעיות אמיתיות
+- ✅ **16+ פרויקטים מעשיים** - כל יום מסתיים בפרויקט משולב
+- ✅ **50+ תרגילים** - בדיקת הבנה ותרגול
+- ✅ **RTL מלא** - כל הטקסט מעוצב נכון מימין לשמאל
+
+---
+
 ## 📚 תוכנית הלימודים
 
 ### יום 1: חזרה והיכרות מחודשת ✅
 - **1_Review.ipynb** - חזרה על טיפוסי משתנים, רשימות, מילונים, קבצים + מערכת אנשי קשר
-- **2_Functions_and_Modules.ipynb** - *args, **kwargs, lambda, מודולים (os, datetime, random, collections) + מערכת ספרייה
-- **Summary.ipynb** - 8 תרגילים מקיפים כולל מערכת הוצאות ותורים
+- **2_Functions_and_Modules.ipynb** - *args, **kwargs, lambda, מודולים (os, datetime, random) + מערכת ספרייה
+- **Summary.ipynb** - 8 תרגילים כולל מערכת הוצאות ותורים
 
 ### יום 2: OOP - חזרה מעמיקה ✅
-- **1_Classes_Review.ipynb** - Classes, __init__, Inheritance + מערכת TODO + מערכת עובדים (4 רמות ירושה)
-- **2_Advanced_OOP.ipynb** - Magic Methods (__str__, __len__, __add__), Properties, אימות + מערכת מסעדה
-- **Summary.ipynb** - 8 תרגילים כולל מערכת ספרייה ומערכת בנקאות
+- **1_Classes_Review.ipynb** - Classes, Inheritance + מערכת TODO + מערכת עובדים
+- **2_Advanced_OOP.ipynb** - Magic Methods, Properties + מערכת מסעדה
+- **Summary.ipynb** - 8 תרגילים כולל מערכת ספרייה ובנקאות
 
 ### יום 3: עבודה עם פורמטים - CSV, JSON, Excel ✅
-- **1_CSV_Files.ipynb** - DictReader/Writer, סטטיסטיקות, קיבוץ + מערכת ניהול מוצרים
-- **2_JSON_Files.ipynb** - load/dump, נתונים מקוננים, המרות + מערכת הגדרות
-- **3_Excel_Files.ipynb** - openpyxl, עיצוב, נוסחאות, מספר גליונות + מחולל דוחות
-- **Summary.ipynb** - 6 תרגילים כולל מערכת מלאי וחשבונית מעוצבת
+- **1_CSV_Files.ipynb** - DictReader/Writer, סטטיסטיקות + מערכת ניהול מוצרים
+- **2_JSON_Files.ipynb** - load/dump, נתונים מקוננים + מערכת הגדרות
+- **3_Excel_Files.ipynb** - openpyxl, עיצוב, נוסחאות + מחולל דוחות
+- **Summary.ipynb** - 6 תרגילים כולל מערכת מלאי וחשבונית
 
 ### יום 4: Requests - תקשורת עם האינטרנט ✅
 - **1_Requests_Basics.ipynb** - HTTP basics, GET requests, query parameters
-- **2_Working_with_APIs.ipynb** - JSON responses, error handling, APIs ציבוריים (wttr.in, quotable.io, dog.ceo)
-- **Summary.ipynb** - 6 תרגילים כולל מזג אויר, הורדת תמונות, מעקב מטבעות
+- **2_Working_with_APIs.ipynb** - JSON responses, error handling, APIs ציבוריים
+- **Summary.ipynb** - 6 תרגילים כולל מזג אויר והורדת תמונות
 
 ### יום 5: SQL בסיסי (SQLite) ✅
 - **1_SQLite_Basics.ipynb** - CREATE, INSERT, SELECT, WHERE
@@ -50,21 +61,21 @@
 - **Summary.ipynb** - תרגילים מעשיים
 
 ### יום 6: Pandas - ניתוח נתונים מתקדם ✅
-- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations, הסברים מפורטים
-- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables, דוגמאות מעשיות
+- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations
+- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables
 - **Summary.ipynb** - תרגילים מקיפים
 
 ### יום 7: Email Automation + Threading ✅
-- **1_Email_Automation.ipynb** - smtplib, שליחת מיילים עם קבצים מצורפים, HTML emails
-- **2_Threading_Basics.ipynb** - threading.Thread, הרצה מקבילית, דוגמאות הורדת קבצים
-- **Summary.ipynb** - 3 תרגילים משולבים (דוחות, הורדות, התראות)
+- **1_Email_Automation.ipynb** - smtplib, שליחת מיילים עם קבצים מצורפים
+- **2_Threading_Basics.ipynb** - threading.Thread, הרצה מקבילית
+- **Summary.ipynb** - 3 תרגילים משולבים
 
 ### יום 8: פרויקט סיום משולב ✅
 - **Final_Project.ipynb** - 3 פרויקטים מפורטים:
   1. מערכת ניהול מכירות (SQL + Excel + Pandas + Email)
-  2. מעקב מחירים אוטומטי (API + SQL + Threading + Email)
+  2. מעקב מחירים אוטומטי (API + SQL + Threading)
   3. מערכת עיבוד מיילים (IMAP + SQL + Excel)
-- **Summary.ipynb** - המלצות להמשך לימוד (Web Dev, ML, Automation), משאבים ועצות
+- **Summary.ipynb** - המלצות להמשך לימוד ומשאבים
 
 ---
 
@@ -76,44 +87,41 @@
 
 ### התקנה
 
-1. **Python 3.8+**
-   - הורידו מ-[python.org](https://www.python.org/downloads/)
-   - בדקו שהתקנה עברה בהצלחה:
-     ```bash
-     python --version
-     ```
+**Python 3.8 ומעלה** - הורידו מ-[python.org](https://www.python.org/downloads/)
 
-2. **Jupyter Notebook**
-   ```bash
-   pip install notebook
-   ```
-
-3. **ספריות נדרשות**
-   ```bash
-   pip install -r requirements.txt
-   ```
+בדקו שהתקנה עברה בהצלחה:
+```bash
+python --version
+```
 
 ---
 
 ## 🚀 איך להתחיל?
 
-1. שכפלו את הריפו:
-   ```bash
-   git clone https://github.com/YourUsername/python-advanced-course.git
-   cd python-advanced-course
-   ```
+### 1. שכפלו את הריפו
+```bash
+git clone https://github.com/DorElias/python-advanced-course.git
+cd python-advanced-course
+```
 
-2. התקינו ספריות:
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 2. התקינו את הספריות הנדרשות
+```bash
+pip install -r requirements.txt
+```
 
-3. הפעילו Jupyter:
-   ```bash
-   jupyter notebook
-   ```
+הספריות שיותקנו:
+- `pandas` - ניתוח נתונים
+- `openpyxl` - עבודה עם Excel
+- `requests` - תקשורת HTTP
+- `notebook` - Jupyter Notebook
 
-4. פתחו את `content/day01/` והתחילו ללמוד!
+### 3. הפעילו את Jupyter
+```bash
+jupyter notebook
+```
+
+### 4. התחילו ללמוד!
+פתחו את `content/day01/1_Review.ipynb` והתחילו מיום 1.
 
 ---
 
@@ -130,10 +138,42 @@ python-advanced-course/
 │   ├── day06/          # Pandas
 │   ├── day07/          # Email + Threading
 │   └── day08/          # פרויקט סיום
-├── resources/          # קבצי דוגמה (CSV, Excel, JSON)
+├── resources/          # קבצי דוגמה (CSV, JSON)
 ├── requirements.txt    # ספריות נדרשות
-└── README.md           # הקובץ הזה
+├── README.md
+└── STATUS.md           # מעקב התקדמות
 ```
+
+כל תיקיית יום מכילה:
+- מחברות לימוד (`.ipynb`)
+- תיקיית `images/` עם לוגו הקורס
+- קבצי עזר לתרגילים (לפי הצורך)
+
+---
+
+## 💡 טיפים ללמידה
+
+1. **למדו לפי הסדר** - כל יום בנוי על הקודם
+2. **תרגלו את הקוד** - הריצו כל דוגמה, נסו לשנות ולראות מה קורה
+3. **עשו את התרגילים** - זו הדרך הטובה ביותר ללמוד
+4. **בנו משהו משלכם** - קחו פרויקט מהקורס והתאימו לצרכים שלכם
+5. **אל תפחדו לטעות** - זה חלק מהתהליך!
+
+---
+
+## 🎯 למי הקורס מתאים?
+
+✅ **מתאים ל:**
+- בוגרי הקורס הבסיסי
+- אנשי משרד שרוצים לבצע אוטומציה
+- מי שעובד עם Excel ורוצה לעבור לקוד
+- מי שרוצה לנתח נתונים בצורה מקצועית
+- תלמידי תיכון/אקדמיה ברמה מתקדמת
+
+❌ **פחות מתאים ל:**
+- מתחילים לחלוטין (תתחילו בקורס הבסיסי)
+- מי שמחפש פיתוח אתרים (Flask/Django)
+- מי שמחפש Machine Learning מעמיק
 
 ---
 
@@ -141,11 +181,12 @@ python-advanced-course/
 
 מצאתם טעות? רוצים להוסיף תוכן? נשמח לקבל Pull Requests!
 
----
-
-## 📞 יצירת קשר
-
-שאלות? הצטרפו לקבוצת [דיסקורד](https://discord.gg/python-il) או פתחו Issue ב-GitHub.
+### איך לתרום?
+1. עשו Fork לריפו
+2. צרו branch חדש (`git checkout -b feature/amazing-feature`)
+3. בצעו commit (`git commit -m 'Add amazing feature'`)
+4. דחפו ל-branch (`git push origin feature/amazing-feature`)
+5. פתחו Pull Request
 
 ---
 
@@ -157,83 +198,12 @@ python-advanced-course/
 
 ## 🙏 תודות
 
-- [לומדים פייתון](https://github.com/PythonFreeCourse/Notebooks) - הקורס הבסיסי המעולה
+- [לומדים פייתון](https://github.com/PythonFreeCourse/Notebooks) - הקורס הבסיסי המעולה שעליו הקורס הזה בנוי
 - הקהילה העברית של Python
 - כל התורמים והמשתתפים!
 
 ---
 
-**בהצלחה! 🐍✨**
-
-</div>
-
----
-
-## ✨ מה חדש בגרסה זו?
-
-- ✅ **24 מחברות מלאות** - כל יום כולל 2-3 מחברות + Summary
-- ✅ **הסברים מפורטים** - טקסט הסבר לפני ואחרי כל קוד
-- ✅ **דוגמאות מציאותיות** - שמות משתנים בעברית, בעיות אמיתיות
-- ✅ **פרויקטים משולבים** - כל יום מסתיים בפרויקט גדול
-- ✅ **RTL מלא** - כל הטקסט מעוצב נכון מימין לשמאל
-- ✅ **"למה זה חשוב?"** - הקשר המעשי לכל נושא
-
----
-
-## 📊 סטטיסטיקות
-
-- **8 ימי לימוד**
-- **24 מחברות Jupyter**
-- **16+ פרויקטים מעשיים**
-- **50+ תרגילים**
-- **כל התוכן בעברית**
-
----
-
-## 🚀 איך להתחיל?
-
-1. שכפלו את הריפו:
-```bash
-git clone https://github.com/DorElias/python-advanced-course.git
-cd python-advanced-course
-```
-
-2. התקינו את הספריות הנדרשות:
-```bash
-pip install -r requirements.txt
-```
-
-3. פתחו את Jupyter:
-```bash
-jupyter notebook
-```
-
-4. התחילו מיום 1!
-
----
-
-## 📖 מבנה הקורס
-
-כל יום כולל:
-- **מחברות לימוד** - תיאוריה + קוד + הסברים
-- **דוגמאות מעשיות** - בעיות אמיתיות מהעולם המשרדי
-- **Summary עם תרגילים** - בדיקת ההבנה
-
-הקורס בנוי כך שניתן:
-- ללמוד לבד בקצב אישי
-- להשתמש בכיתה עם מרצה
-- להתאים תרגילים לצרכים ספציפיים
-
----
-
-## 🤝 תרומה
-
-מצאתם טעות? יש רעיון לשיפור? נשמח ל-Pull Request!
-
----
-
-## 📜 רישיון
-
-MIT License - ראו קובץ LICENSE למידע נוסף
+**בהצלחה בלימוד! 🐍✨**
 
 </div>
