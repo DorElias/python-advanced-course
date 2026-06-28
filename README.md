@@ -23,53 +23,49 @@
 
 ## 📚 תוכנית הלימודים
 
-### יום 1: חזרה והיכרות מחודשת
-- חזרה מהירה על טיפוסי משתנים, פונקציות, מודולים
-- חזרה על עבודה עם קבצים
-- תרגול משולב
+### יום 1: חזרה והיכרות מחודשת ✅
+- **1_Review.ipynb** - חזרה על טיפוסי משתנים, רשימות, מילונים, קבצים + מערכת אנשי קשר
+- **2_Functions_and_Modules.ipynb** - *args, **kwargs, lambda, מודולים (os, datetime, random, collections) + מערכת ספרייה
+- **Summary.ipynb** - 8 תרגילים מקיפים כולל מערכת הוצאות ותורים
 
-### יום 2: OOP - חזרה מעמיקה
-- חזרה על Classes ו-Objects
-- חזרה על Inheritance
-- תרגול מעמיק - מערכת ניהול משימות
+### יום 2: OOP - חזרה מעמיקה ✅
+- **1_Classes_Review.ipynb** - Classes, __init__, Inheritance + מערכת TODO + מערכת עובדים (4 רמות ירושה)
+- **2_Advanced_OOP.ipynb** - Magic Methods (__str__, __len__, __add__), Properties, אימות + מערכת מסעדה
+- **Summary.ipynb** - 8 תרגילים כולל מערכת ספרייה ומערכת בנקאות
 
-### יום 3: עבודה עם פורמטים - CSV, JSON, Excel
-- עבודה עם קבצי CSV
-- עבודה עם JSON
-- עבודה עם Excel (openpyxl) - הכלי החשוב ביותר למשרד!
-- המרות בין פורמטים
+### יום 3: עבודה עם פורמטים - CSV, JSON, Excel ✅
+- **1_CSV_Files.ipynb** - DictReader/Writer, סטטיסטיקות, קיבוץ + מערכת ניהול מוצרים
+- **2_JSON_Files.ipynb** - load/dump, נתונים מקוננים, המרות + מערכת הגדרות
+- **3_Excel_Files.ipynb** - openpyxl, עיצוב, נוסחאות, מספר גליונות + מחולל דוחות
+- **Summary.ipynb** - 6 תרגילים כולל מערכת מלאי וחשבונית מעוצבת
 
-### יום 4: Requests - תקשורת עם האינטרנט
-- הסבר על HTTP ו-APIs
-- התקנת ספריות חיצוניות עם pip
-- שליחת בקשות GET
-- עבודה עם תשובות JSON
-- דוגמאות: מזג אויר, ציטוטים, נתונים ציבוריים
+### יום 4: Requests - תקשורת עם האינטרנט ✅
+- **1_Requests_Basics.ipynb** - HTTP basics, GET requests, query parameters
+- **2_Working_with_APIs.ipynb** - JSON responses, error handling, APIs ציבוריים (wttr.in, quotable.io, dog.ceo)
+- **Summary.ipynb** - 6 תרגילים כולל מזג אויר, הורדת תמונות, מעקב מטבעות
 
-### יום 5: SQL בסיסי (SQLite)
-- מבוא למסדי נתונים
-- פקודות SQL בסיסיות: CREATE, INSERT, SELECT, UPDATE, DELETE
-- חיבור Python ל-SQLite
-- דוגמה: מערכת ניהול אנשי קשר
+### יום 5: SQL בסיסי (SQLite) 🔄
+- **1_SQLite_Basics.ipynb** - CREATE, INSERT, SELECT, WHERE
+- **2_SQL_Advanced.ipynb** - UPDATE, DELETE, JOIN, GROUP BY
+- **Summary.ipynb** - תרגילים מעשיים
+- *(נוצר על ידי subagent)*
 
-### יום 6: Pandas - ניתוח נתונים מתקדם
-- מבוא ל-Pandas ו-DataFrame
-- קריאת וכתיבת קבצים (CSV, Excel)
-- סינון, מיון, קיבוץ נתונים
-- חישובים על עמודות
-- דוגמאות: ניתוח דוחות מכירות, עיבוד רשימות
+### יום 6: Pandas - ניתוח נתונים מתקדם 🔄
+- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations
+- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables
+- **Summary.ipynb** - תרגילים מעשיים
+- *(נוצר על ידי subagent)*
 
-### יום 7: Email Automation + Threading
-- שליחת מיילים אוטומטית עם smtplib
-- מיילים עם HTML וקבצים מצורפים
-- מבוא ל-Threading - הרצת משימות במקביל
-- דוגמאות: שליחת דוחות, הורדת קבצים במקביל
+### יום 7: Email Automation + Threading 🔄
+- **1_Email_Automation.ipynb** - smtplib, sending emails with attachments
+- **2_Threading_Basics.ipynb** - threading.Thread, concurrent downloads
+- **Summary.ipynb** - תרגילים משולבים
+- *(נוצר על ידי subagent)*
 
-### יום 8: פרויקט סיום משולב
-- בחירת פרויקט מתוך 3 אופציות
-- תכנון ובניית הפרויקט שלב אחר שלב
-- שילוב כל הנלמד: Excel, SQL, APIs, Pandas, Email
-- סיכום ומבט קדימה
+### יום 8: פרויקט סיום משולב 🔄
+- **Final_Project.ipynb** - 3 אופציות פרויקט: מכירות, מעקב מחירים, עיבוד מיילים
+- **Summary.ipynb** - המלצות להמשך לימוד, נושאים מתקדמים
+- *(נוצר על ידי subagent)*
 
 ---
 
