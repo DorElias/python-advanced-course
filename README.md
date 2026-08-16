@@ -23,59 +23,63 @@
 
 ## ✨ מה בקורס?
 
-- ✅ **24 מחברות Jupyter מלאות** - כל יום כולל 2-3 מחברות + תרגילים
-- ✅ **הסברים מפורטים** - טקסט הסבר לפני ואחרי כל קוד
+- ✅ **24 מחברות Jupyter מלאות** עם הסברים מפורטים
 - ✅ **דוגמאות מציאותיות** - שמות משתנים בעברית, בעיות אמיתיות
-- ✅ **16+ פרויקטים מעשיים** - כל יום מסתיים בפרויקט משולב
-- ✅ **50+ תרגילים** - בדיקת הבנה ותרגול
+- ✅ **16+ פרויקטים מעשיים** משולבים
+- ✅ **50+ תרגילים** לבדיקת הבנה ותרגול
 - ✅ **RTL מלא** - כל הטקסט מעוצב נכון מימין לשמאל
 
 ---
 
-## 📚 תוכנית הלימודים
+## 📚 נושאי הקורס
 
-### יום 1: חזרה והיכרות מחודשת ✅
-- **1_Review.ipynb** - חזרה על טיפוסי משתנים, רשימות, מילונים, קבצים + מערכת אנשי קשר
-- **2_Functions_and_Modules.ipynb** - *args, **kwargs, lambda, מודולים (os, datetime, random) + מערכת ספרייה
-- **Summary.ipynb** - 8 תרגילים כולל מערכת הוצאות ותורים
+### חזרה והיכרות מחודשת
+- חזרה על טיפוסי משתנים, רשימות, מילונים, קבצים
+- פונקציות מתקדמות: *args, **kwargs, lambda
+- מודולים שימושיים: os, datetime, random, collections
+- **פרויקט:** מערכת אנשי קשר ומערכת ספרייה
 
-### יום 2: OOP - חזרה מעמיקה ✅
-- **1_Classes_Review.ipynb** - Classes, Inheritance + מערכת TODO + מערכת עובדים
-- **2_Advanced_OOP.ipynb** - Magic Methods, Properties + מערכת מסעדה
-- **Summary.ipynb** - 8 תרגילים כולל מערכת ספרייה ובנקאות
+### OOP - חזרה מעמיקה
+- Classes, Inheritance, ירושה מרובת רמות
+- Magic Methods: \_\_str\_\_, \_\_len\_\_, \_\_add\_\_
+- Properties ואימות
+- **פרויקט:** מערכת TODO, מערכת עובדים, מערכת מסעדה
 
-### יום 3: עבודה עם פורמטים - CSV, JSON, Excel ✅
-- **1_CSV_Files.ipynb** - DictReader/Writer, סטטיסטיקות + מערכת ניהול מוצרים
-- **2_JSON_Files.ipynb** - load/dump, נתונים מקוננים + מערכת הגדרות
-- **3_Excel_Files.ipynb** - openpyxl, עיצוב, נוסחאות + מחולל דוחות
-- **Summary.ipynb** - 6 תרגילים כולל מערכת מלאי וחשבונית
+### עבודה עם פורמטים - CSV, JSON, Excel
+- CSV: DictReader/Writer, סטטיסטיקות, קיבוץ נתונים
+- JSON: load/dump, נתונים מקוננים, המרות
+- Excel: openpyxl, עיצוב, נוסחאות, מספר גליונות
+- **פרויקט:** מערכת ניהול מוצרים, מחולל דוחות, חשבונית מעוצבת
 
-### יום 4: Requests - תקשורת עם האינטרנט ✅
-- **1_Requests_Basics.ipynb** - HTTP basics, GET requests, query parameters
-- **2_Working_with_APIs.ipynb** - JSON responses, error handling, APIs ציבוריים
-- **Summary.ipynb** - 6 תרגילים כולל מזג אויר והורדת תמונות
+### Requests - תקשורת עם האינטרנט
+- HTTP basics, GET requests, query parameters
+- עבודה עם APIs ציבוריים
+- JSON responses, error handling
+- **פרויקט:** מזג אויר, הורדת תמונות, מעקב מטבעות
 
-### יום 5: SQL בסיסי (SQLite) ✅
-- **1_SQLite_Basics.ipynb** - CREATE, INSERT, SELECT, WHERE
-- **2_SQL_Advanced.ipynb** - UPDATE, DELETE, JOIN, GROUP BY
-- **Summary.ipynb** - תרגילים מעשיים
+### SQL בסיסי (SQLite)
+- CREATE, INSERT, SELECT, WHERE
+- UPDATE, DELETE, JOIN, GROUP BY
+- שאילתות מורכבות וסטטיסטיקות
+- **פרויקט:** מערכת ספרייה, חנות מקוונת
 
-### יום 6: Pandas - ניתוח נתונים מתקדם ✅
-- **1_Pandas_Basics.ipynb** - DataFrame, read_csv/read_excel, basic operations
-- **2_Pandas_Analysis.ipynb** - filtering, groupby, merge, pivot tables
-- **Summary.ipynb** - תרגילים מקיפים
+### Pandas - ניתוח נתונים מתקדם
+- DataFrame, read_csv/read_excel
+- Filtering, groupby, merge, pivot tables
+- חישובים וניתוח נתונים
+- **פרויקט:** ניתוח מכירות, עיבוד דוחות
 
-### יום 7: Email Automation + Threading ✅
-- **1_Email_Automation.ipynb** - smtplib, שליחת מיילים עם קבצים מצורפים
-- **2_Threading_Basics.ipynb** - threading.Thread, הרצה מקבילית
-- **Summary.ipynb** - 3 תרגילים משולבים
+### Email Automation + Threading
+- smtplib - שליחת מיילים אוטומטיים
+- קבצים מצורפים ו-HTML emails
+- Threading - הרצה מקבילית
+- **פרויקט:** דוחות אוטומטיים, הורדות מקבילות, מערכת התראות
 
-### יום 8: פרויקט סיום משולב ✅
-- **Final_Project.ipynb** - 3 פרויקטים מפורטים:
-  1. מערכת ניהול מכירות (SQL + Excel + Pandas + Email)
-  2. מעקב מחירים אוטומטי (API + SQL + Threading)
-  3. מערכת עיבוד מיילים (IMAP + SQL + Excel)
-- **Summary.ipynb** - המלצות להמשך לימוד ומשאבים
+### פרויקט סיום משולב
+שלושה פרויקטים לבחירה:
+1. **מערכת ניהול מכירות** - SQL + Excel + Pandas + Email
+2. **מעקב מחירים אוטומטי** - API + SQL + Threading + Email
+3. **מערכת עיבוד מיילים** - IMAP + SQL + Excel
 
 ---
 
@@ -121,7 +125,7 @@ jupyter notebook
 ```
 
 ### 4. התחילו ללמוד!
-פתחו את `content/day01/1_Review.ipynb` והתחילו מיום 1.
+פתחו את `content/day01/1_Review.ipynb` והתחילו את הקורס.
 
 ---
 
@@ -140,11 +144,10 @@ python-advanced-course/
 │   └── day08/          # פרויקט סיום
 ├── resources/          # קבצי דוגמה (CSV, JSON)
 ├── requirements.txt    # ספריות נדרשות
-├── README.md
-└── STATUS.md           # מעקב התקדמות
+└── README.md
 ```
 
-כל תיקיית יום מכילה:
+כל תיקיית נושא מכילה:
 - מחברות לימוד (`.ipynb`)
 - תיקיית `images/` עם לוגו הקורס
 - קבצי עזר לתרגילים (לפי הצורך)
@@ -153,7 +156,7 @@ python-advanced-course/
 
 ## 💡 טיפים ללמידה
 
-1. **למדו לפי הסדר** - כל יום בנוי על הקודם
+1. **למדו לפי הסדר** - כל נושא בנוי על הקודם
 2. **תרגלו את הקוד** - הריצו כל דוגמה, נסו לשנות ולראות מה קורה
 3. **עשו את התרגילים** - זו הדרך הטובה ביותר ללמוד
 4. **בנו משהו משלכם** - קחו פרויקט מהקורס והתאימו לצרכים שלכם
