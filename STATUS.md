@@ -1,56 +1,32 @@
-# Python Advanced Course - Progress Status
+# Python Advanced Course - Status
 
-## ✅ Completed Days
+Updated 2026-10-31, before the first live run. The notebooks are under review and fixes are still in progress, so this file lists contents, not a guarantee of quality. See `TEACHER_GUIDE.md` for the schedule, risks and fallbacks.
 
-### Day 1: Review & Advanced Functions
-- ✅ 1_Review.ipynb
-- ✅ 2_Functions_and_Modules.ipynb
-- ✅ Summary.ipynb
+## Contents (25 notebooks in 8 days)
 
-### Day 2: OOP Advanced
-- ✅ 1_Classes_Review.ipynb
-- ✅ 2_Advanced_OOP.ipynb
-- ✅ Summary.ipynb
+| Day | Topic | Notebooks |
+|-----|-------|-----------|
+| 1 | Review and functions | `1_Review`, `2_Functions_and_Modules`, `Summary` |
+| 2 | Advanced OOP | `1_Classes_Review`, `2_Advanced_OOP`, `Summary` |
+| 3 | CSV, JSON, Excel | `1_CSV_Files`, `2_JSON_Files`, `3_Excel_Files`, `Summary` |
+| 4 | Requests and APIs (needs internet) | `1_Requests_Basics`, `2_Working_with_APIs`, `Summary` |
+| 5 | SQLite | `1_SQLite_Basics`, `2_SQL_Advanced`, `Summary` |
+| 6 | Pandas | `1_Pandas_Basics`, `2_Pandas_Analysis`, `Summary` |
+| 7 | Email, Threading, Asyncio (optional) | `1_Email_Automation`, `2_Threading_Basics`, `3_Asyncio_Basics`, `Summary` |
+| 8 | Final project | `Final_Project`, `Summary` |
 
-### Day 3: CSV, JSON, Excel
-- ✅ 1_CSV_Files.ipynb
-- ✅ 2_JSON_Files.ipynb
-- ✅ 3_Excel_Files.ipynb
-- ✅ Summary.ipynb
+## Known limitations
 
-### Day 4: Requests & APIs
-- ✅ 1_Requests_Basics.ipynb
-- ✅ 2_Working_with_APIs.ipynb
-- ✅ Summary.ipynb
+- Days 4 and 7 use the internet; fallbacks are described in `TEACHER_GUIDE.md`.
+- Day 5 `2_SQL_Advanced` and the day 5 `Summary` are short compared to the other days.
+- Email sending (day 7) is intentionally not executed in class.
+- Web scraping and AI/LLM APIs are not covered (listed as next steps).
+- Teacher solutions are kept separately by the instructor, not in this repository.
 
-### Day 5: SQL Basics
-- ✅ 1_SQLite_Basics.ipynb
-- ✅ 2_SQL_Advanced.ipynb
-- ✅ Summary.ipynb
+## Repository files
 
-### Day 6: Pandas
-- ✅ 1_Pandas_Basics.ipynb (full content with explanations)
-- ✅ 2_Pandas_Analysis.ipynb (full content with examples)
-- ✅ Summary.ipynb (exercises)
-
-### Day 7: Email + Threading
-- ✅ 1_Email_Automation.ipynb (full guide to SMTP, attachments, HTML)
-- ✅ 2_Threading_Basics.ipynb (threading examples, parallel downloads)
-- ✅ Summary.ipynb (3 exercises)
-
-### Day 8: Final Project
-- ✅ Final_Project.ipynb (3 detailed project options)
-- ✅ Summary.ipynb (learning roadmap, resources)
-
-## Stats
-- ✅ **All 8 days COMPLETED**
-- ✅ **24 notebooks with full content**
-- ✅ **16+ practical projects**
-- ✅ **50+ exercises**
-- ✅ **Day 3 improved** with +684 lines of explanations
-
-## Quality Improvements
-- Created NOTEBOOK_GUIDELINES.md for future consistency
-- Enhanced Day 3 (CSV & JSON) with detailed explanations
-- Completed Days 6-8 with full content (not just skeleton)
-- All notebooks now follow "explanation before code, explanation after code" pattern
+- `README.md` - student-facing overview and installation
+- `TEACHER_GUIDE.md` - schedule, pre-class checklist, risks
+- `PYCHARM_SETUP.md` - optional PyCharm guide
+- `requirements.txt` - libraries (Python 3.10+)
+- `.gitignore` - ignores files created by running the notebooks

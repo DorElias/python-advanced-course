@@ -1,0 +1,27 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.DS_Store
+
+# Files created when students run the notebooks
+*.db
+*.sqlite
+*.xlsx
+content/**/downloads/
+content/**/*.txt
+content/**/*.csv
+content/**/*.json
+content/**/*.eml
+content/**/*.jpg
+content/**/*.jpeg
+
+# ...but keep course assets
+!content/**/images/
+!content/**/images/**
+!resources/**
+!content/resources/**
+!requirements.txt

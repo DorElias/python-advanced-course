@@ -1,22 +1,22 @@
 # Python Advanced Course - Required Libraries
+# Requires Python 3.10 or newer.
+# Install with: pip install -r requirements.txt
 
-# Data handling
-pandas>=2.0.0
-openpyxl>=3.1.0
+# Data handling (days 3, 6, 8)
+pandas>=2.0
+openpyxl>=3.1
 
-# HTTP requests
-requests>=2.31.0
+# HTTP requests (day 4)
+requests>=2.31
 
-# Email (built-in, but listed for reference)
-# smtplib - included in Python standard library
-# email - included in Python standard library
+# Async HTTP (day 7, asyncio notebook)
+aiohttp>=3.9
 
-# Database (SQLite is built-in)
-# sqlite3 - included in Python standard library
+# Charts (day 6, 8)
+matplotlib>=3.7
 
-# Jupyter Notebook
-notebook>=7.0.0
-ipykernel>=6.25.0
+# Running the notebooks
+notebook>=7.0
+ipykernel>=6.25
 
-# Optional but recommended
-jupyter>=1.0.0
+# Standard library only (nothing to install): csv, json, sqlite3, smtplib, email, threading, asyncio

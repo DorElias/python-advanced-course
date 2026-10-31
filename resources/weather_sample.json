@@ -1,0 +1,55 @@
+{
+  "latitude": 32.09859,
+  "longitude": 34.83018,
+  "generationtime_ms": 0.09334087371826172,
+  "utc_offset_seconds": 7200,
+  "timezone": "Asia/Jerusalem",
+  "timezone_abbreviation": "GMT+2",
+  "elevation": 17.0,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "°C",
+    "wind_speed_10m": "km/h",
+    "weather_code": "wmo code"
+  },
+  "current": {
+    "time": "2026-10-31T18:00",
+    "interval": 900,
+    "temperature_2m": 23.1,
+    "wind_speed_10m": 9.9,
+    "weather_code": 3
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "weather_code": "wmo code",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C"
+  },
+  "daily": {
+    "time": [
+      "2026-10-31",
+      "2026-11-01",
+      "2026-11-02",
+      "2026-11-03"
+    ],
+    "weather_code": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "temperature_2m_max": [
+      26.7,
+      25.9,
+      29.2,
+      27.4
+    ],
+    "temperature_2m_min": [
+      16.4,
+      16.7,
+      17.3,
+      19.6
+    ]
+  }
+}
