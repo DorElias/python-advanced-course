@@ -19,6 +19,13 @@ content/**/*.eml
 content/**/*.jpg
 content/**/*.jpeg
 
+# Sandbox repositories created by the optional Git notebook (day 6).
+# They contain their own .git folders, so the course repo must ignore them.
+git_playground/
+git_playground_remote/
+git_playground_clone/
+git_exercise/
+
 # ...but keep course assets
 !content/**/images/
 !content/**/images/**
