@@ -13,7 +13,7 @@ Updated 2026-10-31, before the first live run. The notebooks are under review an
 | 5 | SQLite | `1_SQLite_Basics`, `2_SQL_Advanced`, `3_SQL_with_Python_and_CSV`, `Summary` |
 | 6 | Pandas (+ optional Git) | `1_Pandas_Basics`, `2_Pandas_Analysis`, `3_Git_Basics_Optional` (optional), `Summary` |
 | 7 | Email, Threading, Asyncio (optional) | `1_Email_Automation`, `2_Threading_Basics`, `3_Asyncio_Basics`, `Summary` |
-| 8 | Final project (choose 1 of 3; each has goal, inputs, numbered requirements, completion checklist) | `Final_Project`, `Summary` |
+| 8 | Final project (choose 1 of 3, each built with classes (day 2 OOP); each has goal, inputs, numbered requirements grouped in stages, self-check cell, completion checklist) | `Final_Project`, `Summary` |
 
 ## Known limitations
 
